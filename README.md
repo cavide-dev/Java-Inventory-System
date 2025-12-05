@@ -29,7 +29,7 @@ You can compile and run this project using the command line or any Java IDE.
     ```
 ## 📊 Example Output
 Here is the real execution log of the system simulation:
-    ```text
+ ```text
     --- Market Inventory System Started ---
 
 --- Initial Stock Status ---
@@ -55,4 +55,6 @@ Chocolate Bar added to the shopping cart.
 --- System Shutdown ---
 ```
 ## 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the **MIT License**.
+
+
